@@ -1,0 +1,29 @@
+Stwórz interaktywny quiz sprawdzający wiedzę z HTML i podstaw CSS dla uczniów technikum.
+
+**Wymagania:**
+- Baza 25 pytań: 15 z HTML i 10 z CSS.
+- W każdej rozgrywce losuj 10 różnych pytań z bazy.
+- Każde pytanie ma 4 odpowiedzi (A, B, C, D), tylko jedną poprawną.
+- Wyświetlaj pytania pojedynczo, z numerem aktualnego pytania.
+- Po zaznaczeniu odpowiedzi przechodź do kolejnego pytania.
+- Na końcu pokaż liczbę poprawnych odpowiedzi i ocenę według skali:
+  - 0–4 pkt → 1
+  - 5 pkt → 2
+  - 6 pkt → 3
+  - 7–8 pkt → 4
+  - 9 pkt → 5
+  - 10 pkt → 6
+- Dodaj przycisk „Zagraj ponownie”, który losuje nowy zestaw pytań.
+- Zadbaj o nowoczesny, estetyczny wygląd i responsywność.
+
+**Wymagania techniczne:**
+- Wykorzystaj wyłącznie HTML, CSS i JavaScript.
+- Całość umieść w jednym pliku `index.html`.
+- Pytania przechowuj w tablicy JavaScript.
+- Quiz musi działać offline.
+
+**Oszczędzanie tokenów:**
+- Zwróć WYŁĄCZNIE gotowy kod, bez wstępu, komentarzy i objaśnień.
+- Stosuj zwięzły kod i krótkie treści pytań.
+- Nie używaj bibliotek, frameworków ani zewnętrznych zasobów.
+- Nie pomijaj żadnej wymaganej funkcjonalności.
